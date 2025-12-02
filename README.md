@@ -138,7 +138,6 @@ After each run:
 Beautiful, interactive test reports with:
 - Test execution timeline
 - Test case details
-- Screenshots (if configured)
 - Trend analysis
 
 ### TestNG Reports
@@ -218,33 +217,8 @@ This is an assignment project. No contributions needed.
 
 ## 📧 Contact
 
-**Name**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Name**: [Ashish Mahato]  
+**Email**: [mahato.ashish.we.com]  
+**LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/ashish-mahato1524/)]  
 **Assignment**: Lucidity SDET - API Testing
 
-## 📜 License
-
-This project is created for educational and assignment purposes.
-
-## 🎓 Assignment Submission Details
-
-### Deliverables Checklist
-- ✅ Complete source code
-- ✅ 15 test cases implemented
-- ✅ Test case Excel sheet
-- ✅ README documentation
-- ✅ GitHub Actions CI/CD
-- ✅ Allure reporting setup
-- ✅ All tests passing
-
-### Evaluation Criteria Met
-1. ✅ **Number of test cases**: 15 comprehensive tests
-2. ✅ **Importance of tests**: Critical business scenarios covered
-3. ✅ **Implementation quality**: Clean, documented code
-4. ✅ **Execution capability**: Automated via GitHub Actions
-
----
-
-**Last Updated**: December 2024  
-**Status**: ✅ Ready for Submission
